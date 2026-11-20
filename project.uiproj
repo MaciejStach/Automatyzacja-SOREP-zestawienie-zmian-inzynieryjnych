@@ -1,0 +1,6 @@
+{
+  "Name": "SOREP_zmiany",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

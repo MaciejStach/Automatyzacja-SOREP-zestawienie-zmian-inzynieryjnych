@@ -1,4 +1,4 @@
-Robot pobiera listę zmian z pliku wejściowego, wyciąga dane z programu wewnetrznego oraz generuje plik wynikowy zawierający m.in.:
+Robot pobiera listę zmian, wyciąga dane z programu wewnetrznego po czym generuje plik zawierający:
 - numer zmiany,
 - datę wejścia,
 - nową i starą aplikację użycia,
